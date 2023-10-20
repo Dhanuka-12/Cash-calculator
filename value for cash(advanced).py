@@ -98,7 +98,7 @@ def coins (value):
         print()
 
     if value != 0:
-        print ('''oops! I'm sorry, we can't afordable your amount
+        print ('''Oops! I'm sorry, we can't afordable your amount
                         thank you!
 
     ''')
